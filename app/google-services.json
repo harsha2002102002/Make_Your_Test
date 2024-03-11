@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477124899288",
+    "firebase_url" : "https://make-your-test-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "make-your-test",
+    "storage_bucket": "make-your-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477124899288:android:c2113d8daa6eaba68082ad",
+        "android_client_info": {
+          "package_name": "com.harsha.make_your_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477124899288-c3ca90bvo3gsogiki8k3404kgf44qjl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsha.make_your_test",
+            "certificate_hash": "bef68fe4813a05b7598e9e557aae499458ebc2d9"
+          }
+        },
+        {
+          "client_id": "477124899288-7phc9f9njh4q76ks1rulhn4h1dv9je3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfEl0iTJIc1Zf83xuAvcB4YDmG6Z8Zn44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477124899288-7phc9f9njh4q76ks1rulhn4h1dv9je3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
